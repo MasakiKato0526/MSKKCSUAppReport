@@ -1,2 +1,14 @@
-# MSKKCSUAppReport
-MSKK CSU App 部門のレポート管理リポジトリ
+こちらのリポジトリでは、MSKK CSU の App CSA 部門で使用するレポート群を管理します。
+
+リポジトリのクローン方法
+```
+git clone https://github.com/MasakiKato0526/MSKKCSUAppReport.git
+cd MSKKCSUAppReport
+gir remote add mskkcsuapp https://github.com/MasakiKato0526/MSKKCSUAppReport.git
+```
+
+ブランチの作成ルール 
+```
+feature/<更新日付>
+```
+
