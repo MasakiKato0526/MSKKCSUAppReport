@@ -4,7 +4,7 @@
 ```
 git clone https://github.com/MasakiKato0526/MSKKCSUAppReport.git
 cd MSKKCSUAppReport
-gir remote add mskkcsuapp https://github.com/MasakiKato0526/MSKKCSUAppReport.git
+git remote add mskkcsuapp https://github.com/MasakiKato0526/MSKKCSUAppReport.git
 ```
 
 ブランチの作成ルール 
