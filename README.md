@@ -9,6 +9,6 @@ git remote add mskkcsuapp https://github.com/MasakiKato0526/MSKKCSUAppReport.git
 
 ブランチの作成ルール 
 ```
-feature/<更新日付>
+feature/<更新日付>-<No>
 ```
 
